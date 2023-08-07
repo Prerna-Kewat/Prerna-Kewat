@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey!<br>This is Prerna Kewat, a third year Computer Science Engineering student from Jaypee University of Information Technology. I am a passionate student with a zeal for problem solving and creativity. <br><br>I enjoy working on Deep Learning and Web Development projects. I've made numerous projects in the field of Front End Development, Back End Development, Speech and Image Recognition.<br><br>My proficiencies include Python, C++, JavaScript, HTML, CSS, PHP, MySQL, OpenCV and Django.
+##Hey!<br>
+This is Prerna Kewat, a third year Computer Science Engineering student from Jaypee University of Information Technology. I am a passionate student with a zeal for problem solving and creativity. <br><br>I enjoy working on Deep Learning and Web Development projects. I've made numerous projects in the field of Front End Development, Back End Development, Speech and Image Recognition.<br><br>My proficiencies include Python, C++, JavaScript, HTML, CSS, PHP, MySQL, OpenCV and Django.
 
 
 ## 🌐 Socials:
