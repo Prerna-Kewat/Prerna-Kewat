@@ -1,3 +1,4 @@
+![](https://github.com/Prerna-Kewat/Prerna-Kewat/blob/main/banner.jpg)
 # 💫 About Me:
 ## Hey!
 This is Prerna Kewat, a third year Computer Science Engineering student from Jaypee University of Information Technology. I am a passionate student with a zeal for problem solving and creativity. <br><br>I enjoy working on Deep Learning and Web Development projects. I've made numerous projects in the field of Front End Development, Back End Development, Speech and Image Recognition.<br><br>My proficiencies include Python, C++, JavaScript, HTML, CSS, PHP, MySQL, OpenCV and Django.
@@ -15,12 +16,6 @@ This is Prerna Kewat, a third year Computer Science Engineering student from Jay
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prerna-Kewat&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prerna-Kewat&icon=0&color=0)](https://visitcount.itsvg.in)
